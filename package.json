@@ -1,0 +1,33 @@
+{
+  "name": "livechart",
+  "version": "0.0.0",
+  "description": "This is a isomorphic javascript app for testing",
+  "author": "Your Name <you.name@example.org>",
+  "authors": [
+    "vilellaj <vilellaj@hotmail.com>"
+  ],
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vilellaj/livechart"
+  },
+  "keywords": [
+    "isomorphic",
+    "javascript",
+    "node.js",
+    "angular.js"
+  ],
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "private": true,
+  "publishConfig": {
+    "registry": ""
+  },
+  "license": "MIT"
+}

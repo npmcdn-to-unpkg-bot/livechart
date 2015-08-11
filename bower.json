@@ -1,0 +1,23 @@
+{
+  "name": "livechart",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vilellaj/livechart",
+  "authors": [
+    "vilellaj <vilellaj@hotmail.com>"
+  ],
+  "description": "This is a isomorphic javascript app for testing",
+  "main": "app.js",
+  "keywords": [
+    "Isomorphic",
+    "node.js",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
